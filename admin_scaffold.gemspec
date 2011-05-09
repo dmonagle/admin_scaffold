@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "admin_scaffold.gemspec",
     "app/helpers/sortable_column_helper.rb",
     "lib/admin_scaffold.rb",
     "lib/admin_scaffold/engine.rb",
