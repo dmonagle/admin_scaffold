@@ -1,5 +1,7 @@
 require 'rails'
 require "admin_scaffold/engine"
+require "simple_page"
+require "simple_form"
 
 module AdminScaffold
   module Rails
